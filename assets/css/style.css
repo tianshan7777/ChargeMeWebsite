@@ -1020,6 +1020,7 @@ Home Section style
     background: url(../images/background/header.jpg) no-repeat bottom center;
     background-size: cover;
     position: relative;
+    opacity: 0.8;
 }
 .main_home{
     overflow: hidden;
